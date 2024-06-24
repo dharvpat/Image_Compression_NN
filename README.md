@@ -1,4 +1,4 @@
-# Image Compression network
+# Image Compression Network
 This 'Project' is a deep-dive into the use of Neural Networks as Image Compression tools. 
 
 # The First Attempt:
